@@ -2,7 +2,7 @@
 class Sorter {
   constructor() {
     this.array = [];
-     this.compare = function (a,b) { return a - b };
+     this.compare = function(a,b) { return a - b };
   }
 
   add(element) {
